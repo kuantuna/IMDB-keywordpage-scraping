@@ -1,4 +1,4 @@
-# IMDB-keywordpage-scripting
+# IMDB-keywordpage-scraping
 
 ## General Steps
 -	This script can generally be used to scrape the properties of movie results in IMDB's keyword page and write them to a .csv file. 
