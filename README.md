@@ -16,6 +16,7 @@
 -	When it comes to this page where the movies are sorted, marked movie features such as the name of the movie,  year of the movie was made, the movie duration, the genre of the movie and the rating of the movie are scrapped and saved in to a .csv file.
 
 ![5](https://user-images.githubusercontent.com/66808459/85923461-e2067a00-b893-11ea-9da3-c1f2f13ed0c5.png)
--	Finally, in the picture above, clicking the 'next' button I marked, scrapes all of the pages by going to them one by one.
+-	In the picture above, clicking the 'next' button I marked, scrapes all of the pages by going to them one by one.
 
-##
+![6](https://user-images.githubusercontent.com/66808459/85923685-e7fd5a80-b895-11ea-98fe-923bbd8a8d64.png)
+- Finally all properties are saved in the 'mov.csv' file and if we open this file with excel we can get a view like above.
